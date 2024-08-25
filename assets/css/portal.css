@@ -1,0 +1,40 @@
+.cop{
+	font-weight: 600;
+	margin: 10px 0px 20px 0px;
+	color:#033363;
+}
+
+.logo{
+	padding:20px;
+	font-size:24px;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: #b0b0b0 0px 0px 8px 0px !important;
+}
+
+.content{
+	cursor: pointer;
+	border-radius: 15px;
+	background-color:green;
+}
+
+.content:hover{
+	font-weight: 600;
+	color:#013261 !important;
+	box-shadow: #b0b0b0 10px 10px 1000px 0px !important;
+}
+
+.content-icon{
+	width: 120px;
+	margin: 5px;
+}
+
+div.content {
+  
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 80px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+a { 	
+	text-decoration:none;
+ }
